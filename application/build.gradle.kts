@@ -3,5 +3,6 @@ plugins {
 }
 
 dependencies {
+    implementation(project(":domain"))
     implementation(libs.spring.boot.web)
 }
