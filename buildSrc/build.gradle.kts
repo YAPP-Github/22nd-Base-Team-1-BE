@@ -1,5 +1,3 @@
-import org.gradle.api.JavaVersion.VERSION_17
-
 plugins {
     `kotlin-dsl`
     `kotlin-dsl-precompiled-script-plugins`
