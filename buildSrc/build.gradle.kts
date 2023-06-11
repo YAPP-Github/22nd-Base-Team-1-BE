@@ -11,7 +11,6 @@ repositories {
 }
 
 tasks.test {
-    println("asd")
     useJUnitPlatform()
 }
 
