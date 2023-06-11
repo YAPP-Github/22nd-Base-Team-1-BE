@@ -1,5 +1,5 @@
 plugins {
-    id("spring-conventions")
+    `spring-conventions`
 }
 
 dependencies {
